@@ -75,6 +75,22 @@ export function createSeedData(): AppState {
         usagePrice: 0.10
       },
       status: 'ACTIVE'
+    },
+    {
+      moduleKey: 'DATA_ANALYTICS_ACCESS',
+      displayName: 'SYNC-DATA - Analytics & Monitoring',
+      description: 'Governed data analytics and monitoring infrastructure with compliance reporting and audit trail visualization.',
+      category: 'INFRASTRUCTURE',
+      replaceable: true,
+      metered: true,
+      requiresValidation: true,
+      dependencies: ['ACCOUNT_GOVERNANCE_CORE'],
+      pricing: {
+        monthlyPrice: 69.99,
+        usageUnit: 'query/1000',
+        usagePrice: 0.05
+      },
+      status: 'ACTIVE'
     }
   ]
 
