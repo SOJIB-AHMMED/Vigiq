@@ -1,0 +1,7 @@
+export { SkrillLogo } from './SkrillLogo'
+export { NetellerLogo } from './NetellerLogo'
+export { CardLogo } from './CardLogo'
+export { CryptoLogo } from './CryptoLogo'
+export { PayPalLogo } from './PayPalLogo'
+export { StripeLogo } from './StripeLogo'
+export { WireLogo } from './WireLogo'

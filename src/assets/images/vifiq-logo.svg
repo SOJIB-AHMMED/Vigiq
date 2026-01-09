@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" fill="none">
+  <g id="vifiq-logo">
+    <text x="50" y="400" font-family="Arial, sans-serif" font-size="280" font-weight="bold" fill="white">
+      <tspan>V</tspan>
+    </text>
+    
+    <g id="cat-head">
+      <path d="M 690 188 L 760 120 L 780 188 Z" fill="white"/>
+      <path d="M 815 188 L 885 120 L 865 188 Z" fill="white"/>
+      
+      <path d="M 690 188 L 690 200 L 710 200 L 710 188 Z" fill="#1a1d24"/>
+      <path d="M 865 188 L 865 200 L 845 200 L 845 188 Z" fill="#1a1d24"/>
+      
+      <ellipse cx="787.5" cy="280" rx="130" ry="120" fill="white"/>
+      
+      <circle cx="740" cy="260" r="12" fill="#1a1d24"/>
+      <circle cx="835" cy="260" r="12" fill="#1a1d24"/>
+      
+      <line x1="655" y1="300" x2="700" y2="310" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <line x1="655" y1="315" x2="700" y2="320" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <line x1="655" y1="330" x2="700" y2="335" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      
+      <line x1="920" y1="300" x2="875" y2="310" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <line x1="920" y1="315" x2="875" y2="320" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <line x1="920" y1="330" x2="875" y2="335" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      
+      <path d="M 760 310 L 787.5 335 L 815 310" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      
+      <path d="M 787.5 335 L 787.5 355" stroke="white" stroke-width="4" stroke-linecap="round"/>
+      
+      <path d="M 745 360 Q 787.5 380 830 360" stroke="white" stroke-width="5" fill="none" stroke-linecap="round"/>
+    </g>
+    
+    <text x="50" y="640" font-family="Arial, sans-serif" font-size="200" font-weight="bold" fill="white" letter-spacing="10">
+      <tspan>FIQ</tspan>
+    </text>
+    
+    <text x="50" y="750" font-family="Arial, sans-serif" font-size="80" font-weight="normal" fill="white" letter-spacing="28">
+      <tspan>ACCOUNTS</tspan>
+    </text>
+  </g>
+</svg>
